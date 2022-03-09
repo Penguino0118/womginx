@@ -1,4 +1,5 @@
 # Womginx
+Look i fixed it where it now works on heroku ur welcome
 
 > Fastest proxy using only nginx as the backend server
 
